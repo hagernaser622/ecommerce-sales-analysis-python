@@ -1,6 +1,6 @@
 # Data
 
-Put the practice dataset here before running the notebook:
+This folder contains the practice dataset used by the notebook:
 
 `Ecommerce_Sales_Practice_Dataset.xlsx`
 
